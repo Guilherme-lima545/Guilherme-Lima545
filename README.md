@@ -1,6 +1,7 @@
 ## Olá eu sou Guilherme Alves 👋
 
 - 💻  Programador FrontEnd
+- 💼  Em busca de oportunidades
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme-Lima545&show_icons=true&theme=tokyonight)
