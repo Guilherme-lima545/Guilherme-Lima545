@@ -2,7 +2,7 @@
 
 - 💻  Programador FrontEnd
 - 💼  Em busca de oportunidades
-- 📖 Estudando TSX & PHP
+- 📖 Estudando Next.js & PHP
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme-Lima545&show_icons=true&theme=tokyonight)
