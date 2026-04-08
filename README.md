@@ -4,7 +4,7 @@
 - 💼  Em busca de oportunidades;
 - 📖 Estudando SQL;
 
-https://lottie.host/715b6568-8b21-46b4-ae78-b6d12a353396/c7VlWRM85e.lottie
+[https://lottie.host/715b6568-8b21-46b4-ae78-b6d12a353396/c7VlWRM85e.lottie]
 
 
 
