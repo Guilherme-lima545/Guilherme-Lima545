@@ -16,7 +16,7 @@
   <img align="center" alt="Guilherme-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
   <img align="center" alt="Guilherme-REDUX" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"> 
   <img align="center" alt="Guilherme-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> 
-   <img align="center" alt="Guilherme-CSS" height="30" width="40" src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"> 
+   <img align="center" alt="Guilherme-CSS" height="100" width="100" src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"> 
 </div>
 
 ##
