@@ -4,8 +4,7 @@
 - 💼  Em busca de oportunidades;
 - 📖 Estudando SQL;
 
-<img align="center" alt="Guilherme-Js" height="30" width="40" src="https://lottie.host/715b6568-8b21-46b4-ae78-b6d12a353396/c7VlWRM85e.lottie">
-
+![Image](https://github.com/user-attachments/assets/d91d554b-8e10-4228-b630-36025af13ccc)
 
 
 ##
