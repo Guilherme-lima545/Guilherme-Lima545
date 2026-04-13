@@ -2,7 +2,7 @@
 
 - 💻  Programador FrontEnd;
 - 💼  Em busca de oportunidades;
-- 📖 Estudando SQL;
+- 📖 Estudando Node.js;
 
 ![Image](https://github.com/user-attachments/assets/d91d554b-8e10-4228-b630-36025af13ccc)
 
